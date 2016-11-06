@@ -60,9 +60,9 @@ RUN apt-key adv --keyserver ha.pool.sks-keyservers.net --recv-keys A4A9406876FCB
 
 
 
-ENV MYSQL_MAJOR 8.0
+ENV MYSQL_MAJOR 5.7
 
-ENV MYSQL_VERSION 8.0.0-dmr-1debian8
+ENV MYSQL_VERSION 5.7.16-1debian8
 
 
 
